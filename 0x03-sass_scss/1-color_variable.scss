@@ -1,0 +1,10 @@
+// Using Sass Variables to Assign Text Color to Body and Paragraph Tags
+$primary-color: #3d3d3d;
+
+body {
+  color: $primary-color;
+}
+
+p {
+  color: $primary-color;
+}
